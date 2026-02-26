@@ -1,1 +1,1 @@
- Today is Thursday
+Hello Welcome to the DevOps World
